@@ -1,0 +1,7 @@
+{
+	"title": "Breakout",
+	"icon": "icon.ico",
+	"MAX_FPS": 60,
+	"win_width": 640,
+	"win_height": 480
+}
